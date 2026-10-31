@@ -1,0 +1,7 @@
+{
+  "name": "AI Orchestration Workstation Suite",
+  "description": "Mission-critical workstation for orchestrating multi-agent compute graphs across NVIDIA TensorRT-LLM, Claude 3.5 Sonnet, and GPT-4o clusters with live telemetry HUD and execution DAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
